@@ -1,0 +1,25 @@
+{
+  "passed": 19,
+  "checks": [
+    "Beranda membaca database demo lewat API",
+    "Semua gambar beranda dimuat",
+    "Karusel foto berikutnya dan sebelumnya",
+    "Dropdown navigasi desktop",
+    "Pencarian global dan detail bersumber",
+    "10 kelompok halaman publik menampilkan konten",
+    "Filter dan keadaan pencarian kosong",
+    "Beranda responsif 375, 768, 1024, 1440 px; menu ponsel",
+    "Dashboard dan tabel 10 modul admin",
+    "Validasi kolom wajib",
+    "Pratinjau sebelum simpan tidak menutup formulir",
+    "Buat draf dan persistensi setelah reload",
+    "Draf tidak tampil di website publik",
+    "Edit, publikasi demo, dan sinkronisasi tampilan publik",
+    "Browser berbeda tidak membaca perubahan ruang demo lain",
+    "Batal arsip dan konfirmasi arsip",
+    "Navigasi dan tabel admin di ponsel",
+    "Fallback membaca snapshot saat API tidak tersedia",
+    "Tidak ada JavaScript page error pada alur uji"
+  ],
+  "page_errors": []
+}

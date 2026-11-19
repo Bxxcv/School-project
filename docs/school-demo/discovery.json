@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-19",
+  "links_in_home": [
+    "https://smpn2srandakan.sch.id/",
+    "https://smpn2srandakan.sch.id/profil/",
+    "https://smpn2srandakan.sch.id/sejarah-singkat/",
+    "https://smpn2srandakan.sch.id/visi-misi/",
+    "https://smpn2srandakan.sch.id/struktur-organisasi/",
+    "https://smpn2srandakan.sch.id/tenaga-edukatif/",
+    "https://smpn2srandakan.sch.id/tenaga-non-edukatif/",
+    "https://smpn2srandakan.sch.id/struktur-kurikulum/",
+    "https://smpn2srandakan.sch.id/kriteria-ketuntasan-minimal/",
+    "https://smpn2srandakan.sch.id/kalender-akademik/",
+    "https://smpn2srandakan.sch.id/data-peserta-didik/",
+    "https://smpn2srandakan.sch.id/category/prestasi/",
+    "https://smpn2srandakan.sch.id/alumni/",
+    "https://smpn2srandakan.sch.id/pendaftaran-alumni/",
+    "https://smpn2srandakan.sch.id/category/galeri/",
+    "https://smpn2srandakan.sch.id/contact/",
+    "https://smpn2srandakan.sch.id/about-us/",
+    "https://smpn2srandakan.sch.id/coures/",
+    "https://smpn2srandakan.sch.id/profil-perpustakaan/",
+    "https://smpn2srandakan.sch.id/sistem-penerimaan-murid-baru-spmb-tahun-pelajaran-2026-2027/",
+    "https://smpn2srandakan.sch.id/sinergi-pendidikan-dan-hukum-kejari-bantul-laksanakan-pendampingan-di-smp-negeri-2-srandakan/",
+    "https://smpn2srandakan.sch.id/cek-kesehatan-gratis-ckg-di-smp-negeri-2-srandakan/",
+    "https://smpn2srandakan.sch.id/hari-olahraga-nasional-haornas-di-smp-negeri-2-srandakan/",
+    "https://smpn2srandakan.sch.id/hasil-survei-kepuasan-masyarakatsmp-negeri-2-srandakan/",
+    "https://smpn2srandakan.sch.id/maklumat-pelayanan/"
+  ],
+  "accessed": [
+    {
+      "url": "https://smpn2srandakan.sch.id/wp-content/uploads/2022/08/logo-SMP-2-srandakan-baru-e1659344041300.png",
+      "status": 200,
+      "file": "public/school/crest.png",
+      "title": ""
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-04-at-10.58.19-1024x768.jpeg",
+      "status": 200,
+      "file": "public/school/pendampingan.webp",
+      "title": ""
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-17-at-09.22.06-1024x461.jpeg",
+      "status": 200,
+      "file": "public/school/sehat.webp",
+      "title": ""
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/",
+      "status": 200,
+      "file": null,
+      "title": "SMP NEGERI 2 SRANDAKAN – ESPERADA JAYA"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-09-at-07.21.04-1-2-1024x768.jpeg",
+      "status": 200,
+      "file": "public/school/olahraga.webp",
+      "title": ""
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-13-at-5.58.17-PM-1-1024x768.jpeg",
+      "status": 200,
+      "file": "public/school/school.webp",
+      "title": ""
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-30-at-10.10.51-1-1024x768.jpeg",
+      "status": 200,
+      "file": "public/school/spmb.webp",
+      "title": ""
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/sejarah-singkat/",
+      "status": 200,
+      "file": null,
+      "title": "Sejarah Singkat SMP Negeri 2 Srandakan – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/visi-misi/",
+      "status": 200,
+      "file": null,
+      "title": "Visi & Misi – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/struktur-organisasi/",
+      "status": 200,
+      "file": null,
+      "title": "Struktur Organisasi – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/profil/",
+      "status": 200,
+      "file": null,
+      "title": "Profil – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/struktur-kurikulum/",
+      "status": 200,
+      "file": null,
+      "title": "Struktur Kurikulum – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/kriteria-ketuntasan-minimal/",
+      "status": 200,
+      "file": null,
+      "title": "Kriteria Ketuntasan Minimal – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/category/prestasi/",
+      "status": 200,
+      "file": null,
+      "title": "Prestasi – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/kalender-akademik/",
+      "status": 200,
+      "file": null,
+      "title": "Kalender Akademik – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/category/galeri/",
+      "status": 200,
+      "file": null,
+      "title": "Galeri – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/contact/",
+      "status": 200,
+      "file": null,
+      "title": "Hubungi Kami – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/coures/",
+      "status": 200,
+      "file": null,
+      "title": "Selamat Datang – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/about-us/",
+      "status": 200,
+      "file": null,
+      "title": "Tentang Sekolah – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/profil-perpustakaan/",
+      "status": 200,
+      "file": null,
+      "title": "Profil Perpustakaan – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/sinergi-pendidikan-dan-hukum-kejari-bantul-laksanakan-pendampingan-di-smp-negeri-2-srandakan/",
+      "status": 200,
+      "file": null,
+      "title": "Sinergi Pendidikan dan Hukum:  Kejari Bantul Laksanakan Pendampingan di SMP Negeri 2 Srandakan – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/sistem-penerimaan-murid-baru-spmb-tahun-pelajaran-2026-2027/",
+      "status": 200,
+      "file": null,
+      "title": "SISTEM PENERIMAAN MURID BARU (SPMB) TAHUN PELAJARAN 2026/2027 SMP NEGERI 2 SRANDAKAN – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/hari-olahraga-nasional-haornas-di-smp-negeri-2-srandakan/",
+      "status": 200,
+      "file": null,
+      "title": "Hari Olahraga Nasional (HAORNAS) Di SMP Negeri 2 Srandakan] – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/cek-kesehatan-gratis-ckg-di-smp-negeri-2-srandakan/",
+      "status": 200,
+      "file": null,
+      "title": "Cek Kesehatan Gratis (CKG) di SMP Negeri 2 Srandakan – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/hasil-survei-kepuasan-masyarakatsmp-negeri-2-srandakan/",
+      "status": 200,
+      "file": null,
+      "title": "Hasil Survei Kepuasan MasyarakatSMP Negeri 2 Srandakan – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/maklumat-pelayanan/",
+      "status": 200,
+      "file": null,
+      "title": "MAKLUMAT PELAYANAN – SMP NEGERI 2 SRANDAKAN"
+    },
+    {
+      "url": "https://smpn2srandakan.sch.id/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-13-at-5.58.19-PM-e1659415117613.jpeg",
+      "file": "public/school/campus.webp",
+      "status": 200,
+      "title": "Tentang Sekolah"
+    }
+  ]
+}
